@@ -10,9 +10,9 @@
 #----------------------------------------------------------------------------
 # Paths.
 
-result_dir = 'results'
-data_dir = 'datasets'
-cache_dir = 'cache'
+result_dir = 'dataset/results'
+data_dir = '../../content/FUNIT/datasets/img/img'
+cache_dir = 'dataset/logs/'
 run_dir_ignore = ['results', 'datasets', 'cache']
 
 #----------------------------------------------------------------------------
